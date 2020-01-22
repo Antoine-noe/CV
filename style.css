@@ -21,9 +21,11 @@ article.h3 {
 .progress {
     border-radius: 10px;
     background: rgba(251,255,255,0.35);
+    margin-bottom: 10px;
+
 }
 .zoom:hover {
-    transform: scale(1.05);
+    transform: scale(1.07);
 }
 .cv {
     display: flex;
@@ -40,6 +42,7 @@ article.h3 {
 }
 .progress-bar {
     border-radius: 10px;
+
 }
 .nav-item {
     padding-right: 1vw;
